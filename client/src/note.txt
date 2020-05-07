@@ -1,0 +1,8 @@
+- object reducer vs array reducer
+- lodash.mapKeys(array, key) transform array to object by key
+- Object.values transfrom object values to array
+- Link to={``}  or Link to=""
+- Google OAuth
+- How to create a costomized history?
+--- CreateBrowserHistory, pash history paramter, use plain router instead of <BrowserRouter>
+- lodash:  _.pick(obj, key1, key2)
